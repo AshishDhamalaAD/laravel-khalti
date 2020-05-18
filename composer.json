@@ -1,0 +1,16 @@
+{
+    "name": "ashish/testing",
+    "description": "First package",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashish Dhamala",
+            "email": "ashish.dhamala2015@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    }
+}
