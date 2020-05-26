@@ -1,6 +1,12 @@
 {
     "name": "asdh/laravel-khalti",
-    "description": "First package",
+    "description": "A laravel package to verify khalti payment.",
+    "keywords": [
+        "khalti",
+        "payment gateway",
+        "khalti payment gateway",
+        "laravel"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
